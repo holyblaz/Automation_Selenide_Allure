@@ -2,7 +2,7 @@
 
 # Обучение в Нетологии.
 
-## Rурс Автоматизированное тестирование
+## Курс Автоматизированное тестирование
 
 ## Тема: Репортинг: Allure, Report Portal
 
@@ -45,7 +45,9 @@ gradlew clean test allureReport
 ``` 
 gradlew allureServe
 ```
+# Allure report
 
-
+![Allure_report_1](https://user-images.githubusercontent.com/98361526/190460415-8fa554b0-d844-4603-af6e-5b089b61bfb6.png)
+![Allure_report_2](https://user-images.githubusercontent.com/98361526/190460437-9d61ccee-6f3c-4a39-a81d-145a4b23e94a.png)
 
 
